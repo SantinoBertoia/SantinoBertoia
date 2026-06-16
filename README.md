@@ -67,12 +67,6 @@ I combine a software development background with hands-on experience supporting 
 
 ---
 
-## 📊 GitHub stats
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SantinoBertoia&layout=compact&theme=github_dark&hide_border=true)
-
----
-
 ## 📫 Contact
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Santino_Bertoia-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/santinobertoia)
