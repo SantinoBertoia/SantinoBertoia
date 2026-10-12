@@ -1,23 +1,34 @@
 # 👋 Hi, I'm Santino Javier Bertoia
 
-### Software Development Technician | QA & Test Automation | SaaS Technical Support
+### Configuration Quality Engineer | University Technician in Software Development
 
-Software Development Technician with experience in **QA, test automation, SaaS technical support, and practical software development**.
+Configuration Quality Engineer with a university technical degree in software development, focused on **QA, software quality, and enterprise SaaS configuration validation**.
 
-I combine a software development background with hands-on experience supporting a test automation SaaS platform, analyzing failed executions, troubleshooting test cases, documenting technical issues, and collaborating with support, QA, and engineering teams.
+I combine a software development background with hands-on experience creating and maintaining automated test cases in testRigor, analyzing failed executions, reproducing defects, documenting findings in Jira, and collaborating with QA, support, and engineering teams.
 
 ---
 
 ## 👨‍💻 About me
 
-- Technical background in software development, testing, and web/mobile applications.
-- Experience in QA, test automation, and SaaS technical support.
-- Hands-on work with test cases, failed executions, bug analysis, Jira tickets, and technical documentation.
-- Previous experience developing chatbots and conversational flows in low-code/no-code environments.
+- University Technician in Software Development, graduated from UADE.
+- Focused on QA and Quality Engineering, functional testing, and SaaS configuration validation.
+- Hands-on work with automated test cases in testRigor, failed executions, defect analysis, Jira tickets, and technical documentation.
+- Previous experience developing low-code chatbots and conversational flows in direct contact with clients.
 
 ---
 
 ## 🛠️ Tech stack
+
+### QA & Tools
+
+![Functional Testing](https://img.shields.io/badge/Functional_Testing-0A66C2?style=for-the-badge)
+![Test Automation](https://img.shields.io/badge/Test_Automation-2E8B57?style=for-the-badge)
+![API Testing](https://img.shields.io/badge/API_Testing-005571?style=for-the-badge)
+![Configuration Validation](https://img.shields.io/badge/Configuration_Validation-2E8B57?style=for-the-badge)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Freshdesk](https://img.shields.io/badge/Freshdesk-00A886?style=for-the-badge)
+![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ### Languages & Development
 
@@ -37,33 +48,24 @@ I combine a software development background with hands-on experience supporting 
 ![REST APIs](https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### QA, Support & Tools
-
-![QA Testing](https://img.shields.io/badge/QA_&_Testing-0A66C2?style=for-the-badge)
-![Test Automation](https://img.shields.io/badge/Test_Automation-2E8B57?style=for-the-badge)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-![Freshdesk](https://img.shields.io/badge/Freshdesk-00A886?style=for-the-badge)
-![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
 ---
 
 ## 🎯 Focus areas
 
-- QA, software testing, and test automation
-- SaaS technical support and troubleshooting
-- Backend and API development
-- Web/mobile application development
-- Chatbots and process automation
+- QA and Quality Engineering
+- Functional, integration, and API testing
+- SaaS configuration and data validation
+- Test case design and test automation
+- Defect analysis and verification of fixes
 
 ---
 
 ## 📚 Currently improving
 
-- QA automation and technical troubleshooting
-- Backend API design with Java and Spring Boot
-- React / React Native application development
-- Clear documentation and maintainable project structure
+- Test automation and systematic defect analysis
+- Functional, integration, and API testing
+- SaaS configuration and data validation
+- Clear technical documentation and maintainable test suites
 
 ---
 
