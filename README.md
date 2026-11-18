@@ -1,34 +1,40 @@
 # 👋 Hi, I'm Santino Javier Bertoia
 
-### Product Support & Client Experience | University Technician in Software Development
+### Client Support Analyst | University Technician in Software Development
 
-Software development graduate with a background in QA and experience developing low-code chatbots and conversational flows in direct contact with clients. I’m focused on product support and helping customers get the most from the software they use.
-
-My QA experience gives me a structured approach to investigating product issues: analyzing failed executions, reproducing defects, documenting findings in Jira, and collaborating with QA, support, and engineering teams.
+Client Support Analyst with a university technical degree in software development, focused on providing technical support to customers, analyzing business processes, and evaluating automated test results in SaaS solutions. Previous experience in testing, failure analysis, and low-code chatbot development in direct contact with clients.
 
 ---
 
 ## 👨‍💻 About me
 
 - University Technician in Software Development, graduated from UADE.
-- Focused on product support and customer-facing software roles, with software quality as a complementary background.
-- Experience analyzing failed test executions, reproducing defects, documenting findings in Jira, and coordinating with technical teams.
+- Technical support for customers, business process analysis, and evaluation of automated test results in SaaS solutions.
+- Experience handling customer inquiries, investigating failed executions and configurations, and escalating Jira issues to Engineering.
 - Previous experience developing low-code chatbots and conversational flows in direct contact with clients.
 
 ---
 
 ## 🛠️ Tech stack
 
-### Product Support & Quality Tools
+### Client Support & Product Analysis
 
-![Functional Testing](https://img.shields.io/badge/Functional_Testing-0A66C2?style=for-the-badge)
+![Client Support](https://img.shields.io/badge/Client_Support-0A66C2?style=for-the-badge)
+![Business Analysis](https://img.shields.io/badge/Business_Analysis-2E8B57?style=for-the-badge)
+![Freshdesk](https://img.shields.io/badge/Freshdesk-00A886?style=for-the-badge)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
+![Microsoft Teams](https://img.shields.io/badge/Microsoft_Teams-6264A7?style=for-the-badge&logo=microsoftteams&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+### Testing & Product Validation
+
 ![Test Automation](https://img.shields.io/badge/Test_Automation-2E8B57?style=for-the-badge)
+![Regression Testing](https://img.shields.io/badge/Regression_Testing-0A66C2?style=for-the-badge)
+![Test Packs](https://img.shields.io/badge/Test_Packs-005571?style=for-the-badge)
+![Functional Testing](https://img.shields.io/badge/Functional_Testing-0A66C2?style=for-the-badge)
 ![API Testing](https://img.shields.io/badge/API_Testing-005571?style=for-the-badge)
 ![Configuration Validation](https://img.shields.io/badge/Configuration_Validation-2E8B57?style=for-the-badge)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-![Freshdesk](https://img.shields.io/badge/Freshdesk-00A886?style=for-the-badge)
-![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ### Languages & Development
 
@@ -52,20 +58,20 @@ My QA experience gives me a structured approach to investigating product issues:
 
 ## 🎯 Focus areas
 
-- Product support and customer-facing software
-- Structured troubleshooting and investigation of software issues
-- Reproducing defects, documenting findings, and coordinating with QA, support, and engineering
-- Clear technical communication and customer guidance
-- SaaS configuration, data validation, and software testing
+- Technical support for customers using SaaS products
+- Customer onboarding and day-to-day product workflows
+- Business process analysis and investigation of customer issues
+- Evaluating automated test results and coordinating validation of fixes
+- Clear communication and issue coordination with customers, Product, and Development teams
 
 ---
 
 ## 📚 Currently improving
 
-- Product support practices and structured troubleshooting
-- Customer communication and clear technical documentation
-- SaaS configuration and data validation
-- Test automation and systematic defect analysis
+- Product support and customer onboarding in SaaS environments
+- Business process analysis and customer communication
+- Product issue investigation and clear technical documentation
+- Automated test results and regression testing as tools for validating fixes
 
 ---
 
